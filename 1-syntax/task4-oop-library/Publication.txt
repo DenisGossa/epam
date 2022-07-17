@@ -1,0 +1,42 @@
+
+BOOK: [author]|[title]|[isbn]|[pages]|[genre]|[year]|[circulation]
+Book: Михаил Булгаков |Мастер и Маргарита|1111-1111-1|310|NOVEL|1966|10
+Book: Лев Толстой |Война и Мир 1 том|2222-2222-1|300|novel|1869|4
+Book: Лев Толстой |Война и Мир 2 том|2222-2222-2|300|novel|1869|4
+Book: Лев Толстой |Война и Мир 3 том|2222-2222-3|250|novel|1869|4
+Book: Лев Толстой |Война и Мир 4 том|2222-2222-4|250|novel|1869|4
+Book: Михаил Булгаков |Роковые яйца,Собачье сердце|1111-1111-2|416|novel|1925|2
+Book: Михаил Булгаков |Записки юного врача|1111-1111-3|192|shortstory|1926|восемь
+Book: Михаил Булгаков |Дни Турбиных|1111-1111-4|200|play|1955|1
+Book: Федор Достоевский |Преступление и наказание|3333-3333-1|novel|1866|608|8
+
+JOURNAL: [title]|[genre]|[issn]|[number]|[year]
+JOURNAL: Мурзилка|CHILDREN|0000001-1990|1|1990
+JOURNAL: foto&Video|HOBBIES|0000003-2000|3|2000
+JOURNAL: Vogue|ADULT|0000001-2005|1|1995
+JOURNAL: Cosmopolitan|WOMEN|0000001-2010|1|2010
+JOURNAL: Сад и огород|HOME|0000001-1990|1|1990
+JOURNAL: Men's Health|MEN|0000010-2019|10|2019
+JOURNAL: КОЛОБОК|CHILDREN|0000001-1990|1|1989
+JOURNAL: КОЛОБОК|CHILDREN|0000002-1990|2|1989
+JOURNAL: КОЛОБОК|CHILDREN|0000003-1990|3|1989
+JOURNAL: КОЛОБОК|CHILDREN|0000004-1990|4|1989
+JOURNAL: КОЛОБОК|CHILDREN|0000005-1990|5|1989
+JOURNAL: КОЛОБОК|CHILDREN|0000006-1990|6|1989
+JOURNAL: ПРАВИЛА ДОРОЖНОГО ДВИЖЕНИЯ|AMATEUR|00000006-2019|6|2019
+
+NEWSPAPER: [title]|[number]|[YEAR]|[Context]
+NEWSPAPER: Вечерний Минск|1|2019|Новогодние праздники
+NEWSPAPER: Вечерний Минск|2|2019|Пожар на стройке
+NEWSPAPER: Вечерний Минск|3|2019|Акция протеста во Франции
+NEWSPAPER: Вечерний Минск|4|2019|Встреча лидеров ЕАЭС
+NEWSPAPER: Times|24|2019|Brexit
+NEWSPAPER: Times|27|2019|Nato
+
+ATLASMAP: [title]|[year]|[CATEGORY]
+ATLASMAP: КРЕСТОВЫЙ ПОХОД| 1044|HISTORICAL
+ATLASMAP: ПОЛИТИЧЕСКАЯ КАРТА МИРА|1990|POLITICAL
+ATLASMAP: АТЛАС АВТОМОБИЛЬНЫХ ДОРОГ ЕВРОПЫ|2019|TOURISTS
+ATLASMAP: ФИЗИЧЕСКАЯ КАРТА МИРА|2001|EARTH
+ATLASMAP: Карта радионуклидного загрязнения Европы|2010|ECOLOGIC
+ATLASMAP: Карта океанов Луны|2019|SPACE

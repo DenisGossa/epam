@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<papers
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns="http://www.example.com/papers"
+        xsi:schemaLocation="http://www.example.com/students papers.xsd">
+
+    <newspaper paper-id="Newspaper1" subscription-index="34567" tittle="The NY times">
+        <mothly>true</mothly>
+        <color>false</color>
+        <volume>12</volume>
+    </newspaper>
+
+    <newspaper paper-id="Newspaper2" subscription-index="64567" tittle="The Guardian">
+        <mothly>true</mothly>
+        <color>false</color>
+        <volume>16</volume>
+    </newspaper>
+
+    <newspaper paper-id="Newspaper3" subscription-index="04567" gloss="false" tittle="AiF">
+        <mothly>false</mothly>
+        <color>true</color>
+        <volume>12</volume>
+    </newspaper>
+
+    <newspaper paper-id="Newspaper4" subscription-index="45907" tittle="Vechernij Minsk">
+        <mothly>true</mothly>
+        <color>false</color>
+        <volume>8</volume>
+    </newspaper>
+
+    <newspaper paper-id="Newspaper5" subscription-index="02457" gloss="false" tittle="Izvestia">
+        <mothly>false</mothly>
+        <color>false</color>
+        <volume>8</volume>
+    </newspaper>
+
+    <newspaper paper-id="Newspaper6" subscription-index="00245" tittle="Komsomolka">
+        <mothly>false</mothly>
+        <color>true</color>
+        <volume>16</volume>
+    </newspaper>
+
+    <journal paper-id="Journal1" subscription-index="09156" gloss="true" tittle="Mens Health">
+        <mothly>false</mothly>
+        <color>false</color>
+        <volume>36</volume>
+    </journal>
+
+    <journal paper-id="Journal2" subscription-index="02356" gloss="true" tittle="Bodybuilding life">
+        <mothly>true</mothly>
+        <color>true</color>
+        <volume>88</volume>
+    </journal>
+
+    <journal paper-id="Journal3" subscription-index="00457" tittle="Vouge">
+        <mothly>true</mothly>
+        <color>true</color>
+        <volume>17</volume>
+    </journal>
+
+    <journal paper-id="Journal4" subscription-index="09123" gloss="true" tittle="AudioVideo">
+        <mothly>false</mothly>
+        <color>true</color>
+        <volume>100</volume>
+    </journal>
+
+    <journal paper-id="Journal5" subscription-index="90001" tittle="Weapons">
+        <mothly>false</mothly>
+        <color>false</color>
+        <volume>30</volume>
+    </journal>
+
+    <booklet paper-id="Booklet1" tittle="Iisus ForEver">
+        <mothly>false</mothly>
+        <color>true</color>
+        <volume>5</volume>
+    </booklet>
+
+    <booklet paper-id="Booklet2" gloss="true" tittle="Mebel">
+        <mothly>false</mothly>
+        <color>true</color>
+        <volume>6</volume>
+    </booklet>
+
+    <booklet paper-id="Booklet3" gloss="true" tittle="The best of sport">
+        <mothly>true</mothly>
+        <color>false</color>
+        <volume>7</volume>
+    </booklet>
+
+    <booklet paper-id="Booklet4" tittle="100 years after 2ww">
+        <mothly>true</mothly>
+        <color>true</color>
+        <volume>8</volume>
+    </booklet>
+
+    <booklet paper-id="Booklet5" tittle="Making sites">
+        <mothly>false</mothly>
+        <color>true</color>
+        <volume>20</volume>
+    </booklet>
+</papers>

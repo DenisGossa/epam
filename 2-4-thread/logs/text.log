@@ -1,0 +1,23 @@
+2019-10-21 14:27:12,207 INFO b.e.t.r.Runner [main] Port Creating
+2019-10-21 14:27:12,212 INFO b.e.t.e.PortStorage [main] Create dispatcher
+2019-10-21 14:27:12,293 INFO b.e.t.e.PortDispatcher [main] Queue = 500 ships
+2019-10-21 14:27:12,295 INFO b.e.t.e.Port [main] Dock 0 start work
+2019-10-21 14:27:12,295 INFO b.e.t.e.Port [main] Dock 1 start work
+2019-10-21 14:27:12,295 INFO b.e.t.e.Port [main] Dock 2 start work
+2019-10-21 14:27:12,295 INFO b.e.t.e.Port [main] Dock 3 start work
+2019-10-21 14:27:12,296 INFO b.e.t.e.Port [main] Dock 4 start work
+2019-10-21 14:50:54,113 INFO b.e.t.e.DockStation [Thread-2] At queue:0 ships
+2019-10-21 14:50:54,113 INFO b.e.t.e.DockStation [Thread-1] At queue:0 ships
+2019-10-21 14:50:54,113 INFO b.e.t.e.DockStation [Thread-5] At queue:0 ships
+2019-10-21 14:50:54,113 INFO b.e.t.e.DockStation [Thread-3] At queue:0 ships
+2019-10-21 14:50:54,113 INFO b.e.t.e.DockStation [Thread-2] Total PortStorage loading:14542 cargo
+2019-10-21 14:50:54,113 INFO b.e.t.e.DockStation [Thread-3] Total PortStorage loading:14542 cargo
+2019-10-21 14:50:54,113 INFO b.e.t.e.DockStation [Thread-5] Total PortStorage loading:14542 cargo
+2019-10-21 14:50:54,113 INFO b.e.t.e.DockStation [Thread-2] Dock 1 Finished work
+2019-10-21 14:50:54,113 INFO b.e.t.e.DockStation [Thread-5] Dock 4 Finished work
+2019-10-21 14:50:54,113 INFO b.e.t.e.DockStation [Thread-3] Dock 2 Finished work
+2019-10-21 14:50:54,113 INFO b.e.t.e.DockStation [Thread-1] Total PortStorage loading:14542 cargo
+2019-10-21 14:50:54,113 INFO b.e.t.e.DockStation [Thread-4] At queue:0 ships
+2019-10-21 14:50:54,113 INFO b.e.t.e.DockStation [Thread-1] Dock 0 Finished work
+2019-10-21 14:50:54,113 INFO b.e.t.e.DockStation [Thread-4] Total PortStorage loading:14542 cargo
+2019-10-21 14:50:54,113 INFO b.e.t.e.DockStation [Thread-4] Dock 3 Finished work

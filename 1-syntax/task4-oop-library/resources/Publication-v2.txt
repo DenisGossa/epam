@@ -1,0 +1,52 @@
+
+BOOK: [author]|[title]|[isbn]|[pages]|[category]|[year]|[copies]
+BOOK: Михаил Булгаков |Мастер и Маргарита|1111-1111-1|310|NOVEL|1966|10
+BOOK: Михаил Булгаков |Мастер и Маргарита|1111-1111-2|270|NOVEL|1971|10
+BOOK: Михаил Булгаков |Мастер и Маргарита|1111-1111-3|290|NOVEL|2000|5
+BOOK: Лев Толстой |Война и Мир 3 том|2222-2222-1|4|novel|1872|4
+BOOK: Лев Толстой |Война и Мир 4 том|2222-2222-2|300|novel|1874|4
+BOOK: Лев Толстой |Война и Мир 2 том|2222-2222-3|250|novel|1871|4
+BOOK: Лев Толстой |Война и Мир 1 том|2222-2222-4|250|novel|1869|4
+BOOK: Лев Толстой |Война и Мир 1 том|2222-2222-4|250|novel|1868|4
+BOOK: Лев Толстой |Война и Мир 1 том|2222-2222-4|250|novel|1868|4
+BOOK: Лев Толстой |Война и Мир 1 том|2222-2222-4|254|novel|1867|4
+BOOK: Михаил Булгаков |Роковые яйца,Собачье сердце|1111-1111-2|416|novel|1925|2
+BOOk: Михаил Булгаков |Записки юного врача|1111-1111-3|192|SHORTSTORY|1926|8
+BOOK: Михаил Булгаков |Дни Турбиных|1111-1111-4|200|PLAY|1955|1
+BOOK: Федор Достоевский |Преступление и наказание|3333-3333-1|1866|novel|608|8
+BOOK: Иванов иван |Мастер кунг фу|1111-1111-4|90|STORY|2000|1
+BOOK: Мировая литература |Миру мИР|2332-2222-4|200|novel|1970|4
+
+JOURNAL: [title]|[category]|[pages]|[number]|[year]
+JOURNAL: Мурзилка|CHILDREN|35|1|1990
+JOURNAL: foto&Video|HOBBIES|40|3|2000
+JOURNAL: Vogue|ADULT|50|1|1995
+JOURNAL: Cosmopolitan|WOMEN|20|1|2010
+JOURNAL: Сад и огород|HOME|18|1|1990
+JOURNAL: Men's Health|MEN|46|10|2019
+JOURNAL: КОЛОБОК|CHILDREN|12|1|1989
+JOURNAL: КОЛОБОК|CHILDREN|12|3|1989
+JOURNAL: КОЛОБОК|CHILDREN|12|13|1989
+JOURNAL: КОЛОБОК|CHILDREN|12|45|1989
+JOURNAL: КОЛОБОК|CHILDREN|12|5|1989
+JOURNAL: КОЛОБОК|CHILDREN|12|16|1989
+JOURNAL: ПРАВИЛА ДОРОЖНОГО ДВИЖЕНИЯ|AMATEUR|12|6|2019
+JOURNAL: петр 1|HISTORY|44|9|1991
+
+
+
+NEWSPAPER: [title]|[number]|[YEAR]|[Context][category][pages]
+NEWSPAPER: Вечерний Минск|1|2018|Новогодние праздники|NEWS|8
+NEWSPAPER: Вечерний Минск|2|2018|Пожар на стройке|NEWS|8
+NEWSPAPER: Вечерний Минск|3|2018|Акция протеста во Франции|NEWS|8
+NEWSPAPER: Вечерний Минск|4|2018|Встреча лидеров ЕАЭС|NEWS|8
+NEWSPAPER: Times|24|2018|Brexit|POLITICAL|10
+NEWSPAPER: Times|27|2018|Nato|POLITICAL
+
+ATLASMAP: [title]|[year]|[CATEGORY][pages]
+ATLASMAP: КРЕСТОВЫЙ ПОХОД-1044|1991|HISTORY|10
+ATLASMAP: ПОЛИТИЧЕСКАЯ КАРТА МИРА|1990|POLITICAL|1
+ATLASMAP: АТЛАС АВТОМОБИЛЬНЫХ ДОРОГ ЕВРОПЫ|2019|TOURISTS|50
+ATLASMAP: ФИЗИЧЕСКАЯ КАРТА МИРА|2001|EARTH|2|e
+ATLASMAP: Карта радионуклидного загрязнения Европы|2010|ECOLOGIC|4
+ATLASMAP: Карта океанов Луны|2019|SPACE|2
